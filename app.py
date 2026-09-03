@@ -114,21 +114,18 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ==========================================
-# LISTA DE JUGADORES (ACTUALIZADA)
+# FUNCIONES PARA LEER JUGADORES DE ARCHIVOS
 # ==========================================
-JUGADORES_8M = [
-    "Artrom", "Jekunam", "DaVa", "BlackStar98", "Revange", "Tesla", "Taz", "Flewless_Phoenix",
-    "Lumix", "Hyper", "KRaftVK", "Pavlinho19", "Ganger_29", "Edwardson", "dm1trena", "mko1919",
-    "totti", "v1nn", "Bomb1to", "Upcake22", "MeLToSik", "Uncle",
-    "Dov1n", "Maslja", "maggett0", "Jokadinho", "vivienne", "cappo", "Cira", "Sena", "Bosko",
-    "Jankulovski", "ODYSSEY", "RAIDEN", "FORCE", "EMPEROR", "GRIMACE", "ENT", "hit", "Glumac",
-    "Bjela", "Peconi", "RIFT", "BOUNTY"
-]
+def leer_jugadores_8m():
+    with open("jugadores_8m.txt", "r", encoding="utf-8") as f:
+        return [linea.strip() for linea in f.readlines() if linea.strip()]
 
-JUGADORES_12M = [
-    "TikitakaMaster", "Frantsuz", "riko", "why", "zoyir", "v1nniePuh", "flamez", "volvo",
-    "Amado", "Shelby", "Furious", "Lucas", "Walnut", "Fernando"
-]
+def leer_jugadores_12m():
+    with open("jugadores_12m.txt", "r", encoding="utf-8") as f:
+        return [linea.strip() for linea in f.readlines() if linea.strip()]
+
+JUGADORES_8M = leer_jugadores_8m()
+JUGADORES_12M = leer_jugadores_12m()
 
 # ==========================================
 # FUNCIONES
@@ -151,11 +148,16 @@ def limpiar_equipo(nombre_equipo):
     return nombre_equipo.strip()
 
 def obtener_equipos_para_jugador(jugador, datos):
-    equipos = set()
+    # ✅ CORRECCIÓN: Si el jugador tiene datos propios, buscar SOLO ahí
     if jugador in datos:
+        equipos = set()
         for p in datos[jugador]:
             if p['equipo_jugador'] != "Sin equipo":
                 equipos.add(limpiar_equipo(p['equipo_jugador']))
+        return list(equipos)
+    
+    # Si NO tiene datos propios, buscar en donde fue rival
+    equipos = set()
     for otros_jugadores, partidos in datos.items():
         for p in partidos:
             if p['rival'].lower() == jugador.lower():
@@ -164,18 +166,26 @@ def obtener_equipos_para_jugador(jugador, datos):
     return list(equipos)
 
 def obtener_partidos_por_equipo_avanzado(jugador, equipo, datos):
-    partidos = []
+    # ✅ CORRECCIÓN: Si el jugador tiene datos propios, usar SOLO sus datos
     if jugador in datos:
+        partidos = []
         for p in datos[jugador]:
             if limpiar_equipo(p['equipo_jugador']).lower() == equipo.lower():
                 partidos.append(p)
+        return partidos
+    
+    # Si NO tiene datos propios, buscar SOLO donde fue rival
+    partidos = []
     for otros_jugadores, partidos_otros in datos.items():
+        if otros_jugadores.lower() == jugador.lower():
+            continue
+        
         for p in partidos_otros:
             if p['rival'].lower() == jugador.lower() and limpiar_equipo(p['equipo_rival']).lower() == equipo.lower():
                 partidos.append({
                     "fecha": p['fecha_partido'],
                     "estado": p['estado'],
-                    "rival": p['rival'],
+                    "rival": otros_jugadores,
                     "equipo_jugador": limpiar_equipo(p['equipo_rival']),
                     "equipo_rival": limpiar_equipo(p['equipo_jugador']),
                     "goles_jugador": p['goles_rival'],
@@ -183,7 +193,18 @@ def obtener_partidos_por_equipo_avanzado(jugador, equipo, datos):
                     "resultado": "Victoria" if p['goles_rival'] > p['goles_jugador'] else ("Derrota" if p['goles_rival'] < p['goles_jugador'] else "Empate"),
                     "fecha_partido": p['fecha_partido']
                 })
-    return partidos
+    
+    # Eliminar duplicados
+    vistos = set()
+    partidos_unicos = []
+    for p in partidos:
+        clave = f"{p['fecha_partido']}|{p['goles_jugador']}-{p['goles_rival']}|{p['equipo_rival']}"
+        if clave not in vistos:
+            vistos.add(clave)
+            partidos_unicos.append(p)
+    
+    partidos_unicos.sort(key=lambda x: x['fecha_partido'], reverse=True)
+    return partidos_unicos
 
 def obtener_rivales(jugador, datos):
     partidos = datos.get(jugador, [])
