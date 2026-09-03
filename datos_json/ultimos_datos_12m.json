@@ -1,0 +1,3230 @@
+{
+    "TikitakaMaster": [
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Arsenal",
+            "goles_jugador": 3,
+            "goles_rival": 3,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 02:12"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Chelsea",
+            "goles_jugador": 4,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 01:54"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 3,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 01:36"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Tottenham Hotspur ESOCCERBET.ORG",
+            "goles_jugador": 3,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 01:18"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "why",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 6,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 6,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 3,
+            "goles_rival": 3,
+            "resultado": "Empate",
+            "fecha_partido": "09/01 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Liverpool ESOCCERBET.ORG",
+            "goles_jugador": 8,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 05:32"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "why",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 4,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 05:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 4,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 04:56"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 7,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 04:20"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "why",
+            "equipo_jugador": "Tottenham Hotspur",
+            "equipo_rival": "Liverpool ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 01:54"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Tottenham Hotspur",
+            "equipo_rival": "Arsenal",
+            "goles_jugador": 6,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 01:36"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Tottenham Hotspur",
+            "equipo_rival": "Chelsea",
+            "goles_jugador": 3,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 01:00"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 4,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "08/30 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "why",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Real Madrid ESOCCERBET.ORG",
+            "goles_jugador": 7,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "08/30 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 5,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "08/30 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 6,
+            "goles_rival": 5,
+            "resultado": "Victoria",
+            "fecha_partido": "08/30 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 3,
+            "goles_rival": 3,
+            "resultado": "Empate",
+            "fecha_partido": "08/30 05:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "why",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Real Madrid ESOCCERBET.ORG",
+            "goles_jugador": 9,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "08/30 04:56"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 2,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 05:32"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 2,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 05:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 1,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 04:56"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Real Madrid ESOCCERBET.ORG",
+            "goles_jugador": 6,
+            "goles_rival": 6,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 04:38"
+        }
+    ],
+    "Frantsuz": [
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Tottenham Hotspur",
+            "equipo_rival": "Chelsea",
+            "goles_jugador": 3,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 02:12"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Tottenham Hotspur",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 2,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 01:54"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Tottenham Hotspur",
+            "equipo_rival": "Manchester City",
+            "goles_jugador": 6,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 01:18"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Tottenham Hotspur",
+            "equipo_rival": "Arsenal ESOCCERBET.ORG",
+            "goles_jugador": 5,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 01:00"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 8,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 2,
+            "goles_rival": 2,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 6,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Liverpool ESOCCERBET.ORG",
+            "goles_jugador": 1,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 05:32"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 1,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 05:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 4,
+            "goles_rival": 7,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 04:56"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 8,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 04:38"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Arsenal",
+            "equipo_rival": "Manchester City ESOCCERBET.ORG",
+            "goles_jugador": 7,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 02:12"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Arsenal",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 1,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 01:54"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Arsenal",
+            "equipo_rival": "Tottenham Hotspur",
+            "goles_jugador": 4,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 01:36"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Arsenal",
+            "equipo_rival": "Chelsea",
+            "goles_jugador": 3,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 01:18"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Liverpool ESOCCERBET.ORG",
+            "goles_jugador": 5,
+            "goles_rival": 5,
+            "resultado": "Empate",
+            "fecha_partido": "09/01 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "why",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 5,
+            "goles_rival": 7,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 4,
+            "goles_rival": 7,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 3,
+            "goles_rival": 3,
+            "resultado": "Empate",
+            "fecha_partido": "09/01 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Liverpool ESOCCERBET.ORG",
+            "goles_jugador": 6,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 05:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 2,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 6,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 5,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Atletico Madrid ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 6,
+            "goles_rival": 5,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 05:32"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 3,
+            "goles_rival": 3,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 05:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 6,
+            "goles_rival": 6,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 04:38"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Fc Bayern Munchen ESOCCERBET.ORG",
+            "goles_jugador": 4,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 04:20"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Tottenham Hotspur",
+            "equipo_rival": "Arsenal",
+            "goles_jugador": 6,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 02:30"
+        }
+    ],
+    "riko": [
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Tottenham Hotspur",
+            "goles_jugador": 6,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 01:54"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Manchester City",
+            "goles_jugador": 4,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 01:36"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Arsenal",
+            "goles_jugador": 3,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 01:18"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Chelsea ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 01:00"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 7,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 2,
+            "goles_rival": 2,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 3,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Atletico Madrid ESOCCERBET.ORG",
+            "goles_jugador": 7,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 4,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 05:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 7,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 04:56"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 4,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 04:38"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Atletico Madrid ESOCCERBET.ORG",
+            "goles_jugador": 6,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 04:20"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Tottenham Hotspur",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 7,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 02:30"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Tottenham Hotspur",
+            "equipo_rival": "Chelsea",
+            "goles_jugador": 6,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 01:54"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Tottenham Hotspur",
+            "equipo_rival": "Arsenal",
+            "goles_jugador": 5,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 01:36"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Tottenham Hotspur",
+            "equipo_rival": "Manchester City ESOCCERBET.ORG",
+            "goles_jugador": 4,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 01:18"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Tottenham Hotspur",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 5,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 01:00"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "why",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 7,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "08/31 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 2,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "08/31 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Liverpool ESOCCERBET.ORG",
+            "goles_jugador": 5,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "08/31 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 4,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 3,
+            "goles_rival": 3,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 4,
+            "goles_rival": 4,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Real Madrid ESOCCERBET.ORG",
+            "goles_jugador": 3,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 3,
+            "goles_rival": 3,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 05:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 04:56"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 4,
+            "goles_rival": 4,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 04:38"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Paris Saint-Germain ESOCCERBET.ORG",
+            "goles_jugador": 3,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 04:20"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Chelsea",
+            "goles_jugador": 4,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 02:30"
+        }
+    ],
+    "why": [
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 2,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 7,
+            "goles_rival": 5,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 4,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Fc Bayern Munchen ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 8,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 05:32"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 1,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 05:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 2,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 04:56"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 1,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 04:38"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Tottenham Hotspur ESOCCERBET.ORG",
+            "goles_jugador": 5,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 01:54"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Chelsea",
+            "goles_jugador": 7,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 01:36"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Manchester City",
+            "goles_jugador": 4,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 01:18"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 2,
+            "goles_rival": 7,
+            "resultado": "Derrota",
+            "fecha_partido": "08/31 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Liverpool ESOCCERBET.ORG",
+            "goles_jugador": 1,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "08/31 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 7,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "08/31 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 1,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "08/31 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 3,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "08/31 05:32"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Fc Bayern Munchen ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "08/31 04:56"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 4,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "08/31 04:38"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 6,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "08/31 04:20"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Chelsea",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 4,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "08/31 02:30"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Chelsea",
+            "equipo_rival": "Tottenham Hotspur ESOCCERBET.ORG",
+            "goles_jugador": 4,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "08/31 02:12"
+        }
+    ],
+    "zoyir": [
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Arsenal",
+            "equipo_rival": "Manchester City",
+            "goles_jugador": 3,
+            "goles_rival": 3,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 02:12"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Arsenal",
+            "equipo_rival": "Chelsea",
+            "goles_jugador": 0,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 01:36"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Arsenal",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 2,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 01:18"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Arsenal",
+            "equipo_rival": "Tottenham Hotspur ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 01:00"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 4,
+            "goles_rival": 7,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 4,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 2,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Atletico Madrid ESOCCERBET.ORG",
+            "goles_jugador": 8,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 05:32"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 1,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 05:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 3,
+            "goles_rival": 8,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 04:38"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 4,
+            "goles_rival": 4,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 04:20"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Chelsea",
+            "equipo_rival": "Manchester City ESOCCERBET.ORG",
+            "goles_jugador": 7,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 02:30"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Chelsea",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 8,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 02:12"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Chelsea",
+            "equipo_rival": "Tottenham Hotspur",
+            "goles_jugador": 2,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 01:54"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Chelsea",
+            "equipo_rival": "Arsenal",
+            "goles_jugador": 1,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 01:18"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Chelsea",
+            "equipo_rival": "Manchester City ESOCCERBET.ORG",
+            "goles_jugador": 3,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 01:00"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 5,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "08/31 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 5,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "08/31 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "why",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 4,
+            "goles_rival": 7,
+            "resultado": "Derrota",
+            "fecha_partido": "08/31 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Real Madrid",
+            "equipo_rival": "Liverpool ESOCCERBET.ORG",
+            "goles_jugador": 4,
+            "goles_rival": 4,
+            "resultado": "Empate",
+            "fecha_partido": "08/31 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 4,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 3,
+            "goles_rival": 3,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 3,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Paris Saint-Germain ESOCCERBET.ORG",
+            "goles_jugador": 4,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 5,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 05:32"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "v1nniepuh",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 8,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 04:56"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 4,
+            "goles_rival": 4,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 04:38"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Real Madrid ESOCCERBET.ORG",
+            "goles_jugador": 6,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 04:20"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Arsenal",
+            "equipo_rival": "Tottenham Hotspur",
+            "goles_jugador": 1,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 02:30"
+        }
+    ],
+    "v1nniePuh": [
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Chelsea",
+            "equipo_rival": "Tottenham Hotspur",
+            "goles_jugador": 2,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 02:12"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Chelsea",
+            "equipo_rival": "Manchester City",
+            "goles_jugador": 2,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 01:54"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Chelsea",
+            "equipo_rival": "Arsenal",
+            "goles_jugador": 2,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 01:36"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Chelsea",
+            "equipo_rival": "Liverpool ESOCCERBET.ORG",
+            "goles_jugador": 5,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 01:00"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 2,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "08/31 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "why",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 5,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "08/31 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 4,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "08/31 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Real Madrid ESOCCERBET.ORG",
+            "goles_jugador": 4,
+            "goles_rival": 4,
+            "resultado": "Empate",
+            "fecha_partido": "08/31 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 8,
+            "goles_rival": 5,
+            "resultado": "Victoria",
+            "fecha_partido": "08/31 05:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 3,
+            "goles_rival": 7,
+            "resultado": "Derrota",
+            "fecha_partido": "08/31 04:56"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "why",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 2,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "08/31 04:38"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Fc Bayern Munchen ESOCCERBET.ORG",
+            "goles_jugador": 6,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "08/31 04:20"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Arsenal",
+            "goles_jugador": 4,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "08/31 02:30"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 5,
+            "goles_rival": 5,
+            "resultado": "Empate",
+            "fecha_partido": "08/31 01:54"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Tottenham Hotspur",
+            "goles_jugador": 3,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "08/31 01:36"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "why",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Chelsea ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 2,
+            "resultado": "Empate",
+            "fecha_partido": "08/31 01:18"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Arsenal",
+            "goles_jugador": 2,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "08/31 01:00"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 5,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "08/29 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 4,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "08/29 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Fc Bayern Munchen ESOCCERBET.ORG",
+            "goles_jugador": 6,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "08/29 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 5,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 4,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 4,
+            "goles_rival": 4,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Fc Bayern Munchen ESOCCERBET.ORG",
+            "goles_jugador": 5,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 5,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 05:32"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 6,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 05:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 4,
+            "goles_rival": 8,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 04:56"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Atletico Madrid ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 04:20"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Chelsea",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 2,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 02:30"
+        }
+    ],
+    "flamez": [
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 4,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 4,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 6,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Fc Bayern Munchen ESOCCERBET.ORG",
+            "goles_jugador": 3,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 05:32"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 5,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 04:56"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 3,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 04:38"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 4,
+            "goles_rival": 4,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 04:20"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Chelsea ESOCCERBET.ORG",
+            "goles_jugador": 3,
+            "goles_rival": 7,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 02:30"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Arsenal",
+            "goles_jugador": 3,
+            "goles_rival": 7,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 02:12"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 5,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 01:36"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Tottenham Hotspur",
+            "goles_jugador": 1,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 01:18"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Chelsea ESOCCERBET.ORG",
+            "goles_jugador": 6,
+            "goles_rival": 3,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 01:00"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 2,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 7,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 7,
+            "goles_rival": 5,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "why",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Atletico Madrid ESOCCERBET.ORG",
+            "goles_jugador": 8,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 05:32"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 6,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 04:56"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 8,
+            "goles_rival": 4,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 04:38"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "volvo",
+            "equipo_jugador": "Fc Bayern Munchen",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 5,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 04:20"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Arsenal",
+            "equipo_rival": "Tottenham Hotspur ESOCCERBET.ORG",
+            "goles_jugador": 3,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 01:36"
+        }
+    ],
+    "volvo": [
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 3,
+            "goles_rival": 8,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 3,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 08:26"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 1,
+            "goles_rival": 7,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Paris Saint-Germain ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 8,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 05:32"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 4,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 05:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Liverpool",
+            "goles_jugador": 1,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 04:56"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Atletico Madrid",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 3,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 04:20"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Tottenham Hotspur ESOCCERBET.ORG",
+            "goles_jugador": 4,
+            "goles_rival": 7,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 02:30"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "zoyir",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Chelsea",
+            "goles_jugador": 4,
+            "goles_rival": 8,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 02:12"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Arsenal",
+            "goles_jugador": 6,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 01:54"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Manchester City",
+            "goles_jugador": 4,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 01:36"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "riko",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Tottenham Hotspur ESOCCERBET.ORG",
+            "goles_jugador": 3,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 01:00"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 5,
+            "goles_rival": 5,
+            "resultado": "Empate",
+            "fecha_partido": "09/01 08:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "why",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 3,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 08:08"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 5,
+            "goles_rival": 7,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 07:50"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tikitakamaster",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Real Madrid ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 8,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 05:32"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Paris Saint-Germain",
+            "goles_jugador": 3,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 05:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "why",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Atletico Madrid",
+            "goles_jugador": 2,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/01 04:38"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "flamez",
+            "equipo_jugador": "Liverpool",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 1,
+            "goles_rival": 5,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 04:20"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "frantsuz",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Chelsea ESOCCERBET.ORG",
+            "goles_jugador": 1,
+            "goles_rival": 6,
+            "resultado": "Derrota",
+            "fecha_partido": "09/01 01:54"
+        }
+    ],
+    "Amado": [
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Real Betis",
+            "equipo_rival": "Como",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 16:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Real Betis",
+            "equipo_rival": "Club Brugge Kv",
+            "goles_jugador": 1,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 16:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Real Betis",
+            "equipo_rival": "Galatasaray Sk",
+            "goles_jugador": 1,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 15:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Ajax",
+            "equipo_rival": "Brighton ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 15:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Ajax",
+            "equipo_rival": "As Monaco Football Club Sa",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 15:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Ajax",
+            "equipo_rival": "Panathinaikos",
+            "goles_jugador": 2,
+            "goles_rival": 2,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 14:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Ajax",
+            "equipo_rival": "Sc Freiburg",
+            "goles_jugador": 1,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 14:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Ajax",
+            "equipo_rival": "Brighton ESOCCERBET.ORG",
+            "goles_jugador": 4,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 14:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Ajax",
+            "equipo_rival": "As Monaco Football Club Sa",
+            "goles_jugador": 1,
+            "goles_rival": 1,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 13:59"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Ajax",
+            "equipo_rival": "Panathinaikos",
+            "goles_jugador": 3,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 13:29"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Ajax",
+            "equipo_rival": "Sc Freiburg",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 13:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Napoli",
+            "equipo_rival": "Manchester City ESOCCERBET.ORG",
+            "goles_jugador": 1,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 12:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Napoli",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 0,
+            "goles_rival": 0,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 12:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Napoli",
+            "equipo_rival": "Losc Lille",
+            "goles_jugador": 1,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 12:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Napoli",
+            "equipo_rival": "Borussia Dortmund",
+            "goles_jugador": 1,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 11:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Napoli",
+            "equipo_rival": "Manchester City ESOCCERBET.ORG",
+            "goles_jugador": 0,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 11:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Napoli",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 1,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 11:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Napoli",
+            "equipo_rival": "Losc Lille",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 10:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Napoli",
+            "equipo_rival": "Borussia Dortmund",
+            "goles_jugador": 1,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 10:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Juventus",
+            "equipo_rival": "Olympiacos Cfp ESOCCERBET.ORG",
+            "goles_jugador": 4,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 10:13"
+        }
+    ],
+    "Shelby": [
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Galatasaray Sk",
+            "equipo_rival": "Feyenoord",
+            "goles_jugador": 1,
+            "goles_rival": 1,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 16:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Galatasaray Sk",
+            "equipo_rival": "Real Betis",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 15:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Sc Freiburg",
+            "equipo_rival": "As Monaco Football Club Sa",
+            "goles_jugador": 4,
+            "goles_rival": 4,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 15:29"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Sc Freiburg",
+            "equipo_rival": "Panathinaikos ESOCCERBET.ORG",
+            "goles_jugador": 1,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 14:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Sc Freiburg",
+            "equipo_rival": "Brighton",
+            "goles_jugador": 2,
+            "goles_rival": 2,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 14:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Sc Freiburg",
+            "equipo_rival": "Ajax",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 14:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Sc Freiburg",
+            "equipo_rival": "As Monaco Football Club Sa",
+            "goles_jugador": 3,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 14:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Sc Freiburg",
+            "equipo_rival": "Panathinaikos ESOCCERBET.ORG",
+            "goles_jugador": 1,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 13:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Sc Freiburg",
+            "equipo_rival": "Brighton",
+            "goles_jugador": 3,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 13:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Sc Freiburg",
+            "equipo_rival": "Ajax",
+            "goles_jugador": 1,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 13:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Borussia Dortmund",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 2,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 12:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Borussia Dortmund",
+            "equipo_rival": "Losc Lille ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 12:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Borussia Dortmund",
+            "equipo_rival": "Manchester City",
+            "goles_jugador": 3,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 12:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Borussia Dortmund",
+            "equipo_rival": "Napoli",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 11:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Borussia Dortmund",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 1,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 11:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Borussia Dortmund",
+            "equipo_rival": "Losc Lille ESOCCERBET.ORG",
+            "goles_jugador": 0,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 10:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Borussia Dortmund",
+            "equipo_rival": "Manchester City",
+            "goles_jugador": 3,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 10:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Borussia Dortmund",
+            "equipo_rival": "Napoli",
+            "goles_jugador": 3,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 10:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Olympique De Marseille",
+            "equipo_rival": "Bayer 04 Leverkusen",
+            "goles_jugador": 1,
+            "goles_rival": 1,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 10:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Olympique De Marseille",
+            "equipo_rival": "Benfica ESOCCERBET.ORG",
+            "goles_jugador": 1,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 09:43"
+        }
+    ],
+    "Furious": [
+        {
+            "estado": "Finalizado",
+            "rival": "lio",
+            "equipo_jugador": "Bodo Glimt",
+            "equipo_rival": "Fenerbahce Sk",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 16:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lucas",
+            "equipo_jugador": "Bodo Glimt",
+            "equipo_rival": "Rc Lens",
+            "goles_jugador": 3,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 15:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tifosi",
+            "equipo_jugador": "Bodo Glimt",
+            "equipo_rival": "Aek Athens",
+            "goles_jugador": 2,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 15:45"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "jack",
+            "equipo_jugador": "Bodo Glimt",
+            "equipo_rival": "Slavia Prague ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 15:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lucas",
+            "equipo_jugador": "Bodo Glimt",
+            "equipo_rival": "Rc Lens",
+            "goles_jugador": 2,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 14:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tifosi",
+            "equipo_jugador": "Bodo Glimt",
+            "equipo_rival": "Aek Athens",
+            "goles_jugador": 0,
+            "goles_rival": 0,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 14:30"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "jack",
+            "equipo_jugador": "Bodo Glimt",
+            "equipo_rival": "Slavia Prague",
+            "goles_jugador": 3,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 14:14"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lio",
+            "equipo_jugador": "Milan",
+            "equipo_rival": "Como ESOCCERBET.ORG",
+            "goles_jugador": 1,
+            "goles_rival": 1,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 13:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lucas",
+            "equipo_jugador": "Milan",
+            "equipo_rival": "Inter",
+            "goles_jugador": 2,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 13:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tifosi",
+            "equipo_jugador": "Milan",
+            "equipo_rival": "Roma",
+            "goles_jugador": 1,
+            "goles_rival": 1,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 13:15"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "jack",
+            "equipo_jugador": "Milan",
+            "equipo_rival": "Napoli",
+            "goles_jugador": 0,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 12:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lio",
+            "equipo_jugador": "Milan",
+            "equipo_rival": "Como ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 12:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lucas",
+            "equipo_jugador": "Milan",
+            "equipo_rival": "Inter",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 11:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "jack",
+            "equipo_jugador": "Milan",
+            "equipo_rival": "Napoli",
+            "goles_jugador": 2,
+            "goles_rival": 2,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 11:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lio",
+            "equipo_jugador": "Fc Barcelona",
+            "equipo_rival": "Inter",
+            "goles_jugador": 1,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 10:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lucas",
+            "equipo_jugador": "Fc Barcelona",
+            "equipo_rival": "Paris Saint-Germain ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 10:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tifosi",
+            "equipo_jugador": "Fc Barcelona",
+            "equipo_rival": "Fc Bayern Munchen",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 10:30"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "jack",
+            "equipo_jugador": "Fc Barcelona",
+            "equipo_rival": "Arsenal",
+            "goles_jugador": 2,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 10:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lio",
+            "equipo_jugador": "Fc Barcelona",
+            "equipo_rival": "Inter",
+            "goles_jugador": 1,
+            "goles_rival": 1,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 09:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lucas",
+            "equipo_jugador": "Fc Barcelona",
+            "equipo_rival": "Paris Saint-Germain ESOCCERBET.ORG",
+            "goles_jugador": 4,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 09:28"
+        }
+    ],
+    "Lucas": [
+        {
+            "estado": "Finalizado",
+            "rival": "jack",
+            "equipo_jugador": "Rc Lens",
+            "equipo_rival": "Slavia Prague",
+            "goles_jugador": 0,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 16:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "furious",
+            "equipo_jugador": "Rc Lens",
+            "equipo_rival": "Bodo Glimt",
+            "goles_jugador": 2,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 15:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lio",
+            "equipo_jugador": "Rc Lens",
+            "equipo_rival": "Fenerbahce Sk",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 15:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tifosi",
+            "equipo_jugador": "Rc Lens",
+            "equipo_rival": "Aek Athens ESOCCERBET.ORG",
+            "goles_jugador": 1,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 15:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "jack",
+            "equipo_jugador": "Rc Lens",
+            "equipo_rival": "Slavia Prague",
+            "goles_jugador": 3,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 15:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "furious",
+            "equipo_jugador": "Rc Lens",
+            "equipo_rival": "Bodo Glimt",
+            "goles_jugador": 1,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 14:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lio",
+            "equipo_jugador": "Rc Lens",
+            "equipo_rival": "Fenerbahce Sk",
+            "goles_jugador": 0,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 14:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tifosi",
+            "equipo_jugador": "Rc Lens",
+            "equipo_rival": "Aek Athens ESOCCERBET.ORG",
+            "goles_jugador": 0,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 14:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "jack",
+            "equipo_jugador": "Inter",
+            "equipo_rival": "Napoli",
+            "goles_jugador": 5,
+            "goles_rival": 5,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 13:59"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "furious",
+            "equipo_jugador": "Inter",
+            "equipo_rival": "Milan",
+            "goles_jugador": 3,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 13:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lio",
+            "equipo_jugador": "Inter",
+            "equipo_rival": "Como",
+            "goles_jugador": 2,
+            "goles_rival": 2,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 13:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tifosi",
+            "equipo_jugador": "Inter",
+            "equipo_rival": "Roma ESOCCERBET.ORG",
+            "goles_jugador": 3,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 12:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "jack",
+            "equipo_jugador": "Inter",
+            "equipo_rival": "Napoli",
+            "goles_jugador": 3,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 12:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "furious",
+            "equipo_jugador": "Inter",
+            "equipo_rival": "Milan",
+            "goles_jugador": 1,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 11:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lio",
+            "equipo_jugador": "Inter",
+            "equipo_rival": "Como",
+            "goles_jugador": 2,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 11:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tifosi",
+            "equipo_jugador": "Inter",
+            "equipo_rival": "Roma ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 11:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "jack",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Arsenal",
+            "goles_jugador": 3,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 11:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "furious",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Fc Barcelona",
+            "goles_jugador": 0,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 10:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "lio",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Inter",
+            "goles_jugador": 2,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 10:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "tifosi",
+            "equipo_jugador": "Paris Saint-Germain",
+            "equipo_rival": "Fc Bayern Munchen ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 2,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 10:13"
+        }
+    ],
+    "Walnut": [
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Como",
+            "equipo_rival": "Real Betis",
+            "goles_jugador": 1,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/03 16:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Como",
+            "equipo_rival": "Feyenoord",
+            "goles_jugador": 1,
+            "goles_rival": 1,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 16:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Como",
+            "equipo_rival": "Club Brugge Kv",
+            "goles_jugador": 1,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/03 15:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Brighton",
+            "equipo_rival": "Ajax ESOCCERBET.ORG",
+            "goles_jugador": 1,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 15:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Brighton",
+            "equipo_rival": "Panathinaikos",
+            "goles_jugador": 2,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 15:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Brighton",
+            "equipo_rival": "As Monaco Football Club Sa",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 14:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Brighton",
+            "equipo_rival": "Sc Freiburg",
+            "goles_jugador": 2,
+            "goles_rival": 2,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 14:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Brighton",
+            "equipo_rival": "Ajax ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 14:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Brighton",
+            "equipo_rival": "Panathinaikos",
+            "goles_jugador": 1,
+            "goles_rival": 1,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 13:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Brighton",
+            "equipo_rival": "As Monaco Football Club Sa",
+            "goles_jugador": 3,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 13:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Brighton",
+            "equipo_rival": "Sc Freiburg",
+            "goles_jugador": 1,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 13:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Napoli ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 12:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Losc Lille",
+            "goles_jugador": 2,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 12:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 12:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Borussia Dortmund",
+            "goles_jugador": 2,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 12:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Napoli ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 11:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "fernando",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Losc Lille",
+            "goles_jugador": 2,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 11:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 1,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 10:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Manchester City",
+            "equipo_rival": "Borussia Dortmund",
+            "goles_jugador": 2,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 10:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Olympiacos Cfp",
+            "equipo_rival": "Juventus ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 4,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 10:13"
+        }
+    ],
+    "Fernando": [
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Feyenoord",
+            "equipo_rival": "Galatasaray Sk",
+            "goles_jugador": 1,
+            "goles_rival": 1,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 16:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Feyenoord",
+            "equipo_rival": "Como",
+            "goles_jugador": 1,
+            "goles_rival": 1,
+            "resultado": "Empate",
+            "fecha_partido": "09/03 16:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Panathinaikos",
+            "equipo_rival": "Brighton",
+            "goles_jugador": 3,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 15:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Panathinaikos",
+            "equipo_rival": "Sc Freiburg ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 14:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Panathinaikos",
+            "equipo_rival": "Ajax",
+            "goles_jugador": 2,
+            "goles_rival": 2,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 14:44"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Panathinaikos",
+            "equipo_rival": "As Monaco Football Club Sa",
+            "goles_jugador": 1,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 14:29"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Panathinaikos",
+            "equipo_rival": "Brighton",
+            "goles_jugador": 1,
+            "goles_rival": 1,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 13:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Panathinaikos",
+            "equipo_rival": "Sc Freiburg ESOCCERBET.ORG",
+            "goles_jugador": 3,
+            "goles_rival": 1,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 13:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Panathinaikos",
+            "equipo_rival": "Ajax",
+            "goles_jugador": 1,
+            "goles_rival": 3,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 13:29"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Panathinaikos",
+            "equipo_rival": "As Monaco Football Club Sa",
+            "goles_jugador": 2,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 13:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Losc Lille",
+            "equipo_rival": "Manchester City",
+            "goles_jugador": 3,
+            "goles_rival": 2,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 12:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Losc Lille",
+            "equipo_rival": "Borussia Dortmund ESOCCERBET.ORG",
+            "goles_jugador": 0,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 12:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Losc Lille",
+            "equipo_rival": "Napoli",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 12:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Losc Lille",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 1,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 11:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Losc Lille",
+            "equipo_rival": "Manchester City",
+            "goles_jugador": 1,
+            "goles_rival": 2,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 11:13"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Losc Lille",
+            "equipo_rival": "Borussia Dortmund ESOCCERBET.ORG",
+            "goles_jugador": 2,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 10:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "amado",
+            "equipo_jugador": "Losc Lille",
+            "equipo_rival": "Napoli",
+            "goles_jugador": 1,
+            "goles_rival": 0,
+            "resultado": "Victoria",
+            "fecha_partido": "09/02 10:43"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "delpiero",
+            "equipo_jugador": "Losc Lille",
+            "equipo_rival": "Real Madrid",
+            "goles_jugador": 0,
+            "goles_rival": 0,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 10:28"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "walnut",
+            "equipo_jugador": "Benfica",
+            "equipo_rival": "Olympiacos Cfp",
+            "goles_jugador": 3,
+            "goles_rival": 3,
+            "resultado": "Empate",
+            "fecha_partido": "09/02 09:58"
+        },
+        {
+            "estado": "Finalizado",
+            "rival": "shelby",
+            "equipo_jugador": "Benfica",
+            "equipo_rival": "Olympique De Marseille ESOCCERBET.ORG",
+            "goles_jugador": 0,
+            "goles_rival": 1,
+            "resultado": "Derrota",
+            "fecha_partido": "09/02 09:43"
+        }
+    ]
+}
