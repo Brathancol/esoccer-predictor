@@ -132,9 +132,9 @@ JUGADORES_12M = leer_jugadores_12m()
 # ==========================================
 def leer_datos_json(liga):
     if liga == "8m":
-        archivo = "datos_json/ultimos_datos_8m.json"
+        archivo = "ultimos_datos_8m.json"
     else:
-        archivo = "datos_json/ultimos_datos_12m.json"
+        archivo = "ultimos_datos_12m.json"
     
     if not os.path.exists(archivo):
         st.warning(f"⚠️ No existe el archivo {archivo}. Ejecuta primero el sistema de extracción.")
