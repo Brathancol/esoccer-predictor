@@ -131,6 +131,7 @@ JUGADORES_12M = leer_jugadores_12m()
 # FUNCIONES
 # ==========================================
 def leer_datos_json(liga):
+    # ✅ CORRECCIÓN: Leer JSON desde la raíz del repositorio
     if liga == "8m":
         archivo = "ultimos_datos_8m.json"
     else:
@@ -148,7 +149,6 @@ def limpiar_equipo(nombre_equipo):
     return nombre_equipo.strip()
 
 def obtener_equipos_para_jugador(jugador, datos):
-    # ✅ CORRECCIÓN: Si el jugador tiene datos propios, buscar SOLO ahí
     if jugador in datos:
         equipos = set()
         for p in datos[jugador]:
@@ -156,7 +156,6 @@ def obtener_equipos_para_jugador(jugador, datos):
                 equipos.add(limpiar_equipo(p['equipo_jugador']))
         return list(equipos)
     
-    # Si NO tiene datos propios, buscar en donde fue rival
     equipos = set()
     for otros_jugadores, partidos in datos.items():
         for p in partidos:
@@ -166,7 +165,6 @@ def obtener_equipos_para_jugador(jugador, datos):
     return list(equipos)
 
 def obtener_partidos_por_equipo_avanzado(jugador, equipo, datos):
-    # ✅ CORRECCIÓN: Si el jugador tiene datos propios, usar SOLO sus datos
     if jugador in datos:
         partidos = []
         for p in datos[jugador]:
@@ -174,7 +172,6 @@ def obtener_partidos_por_equipo_avanzado(jugador, equipo, datos):
                 partidos.append(p)
         return partidos
     
-    # Si NO tiene datos propios, buscar SOLO donde fue rival
     partidos = []
     for otros_jugadores, partidos_otros in datos.items():
         if otros_jugadores.lower() == jugador.lower():
@@ -194,7 +191,6 @@ def obtener_partidos_por_equipo_avanzado(jugador, equipo, datos):
                     "fecha_partido": p['fecha_partido']
                 })
     
-    # Eliminar duplicados
     vistos = set()
     partidos_unicos = []
     for p in partidos:
@@ -307,7 +303,7 @@ else:
 datos = leer_datos_json(liga)
 
 # ==========================================
-# USANDO st.radio EN FORMATO HORIZONTAL
+# SELECTORES DE JUGADORES Y EQUIPOS
 # ==========================================
 col1, col2 = st.columns(2)
 
@@ -451,10 +447,8 @@ if h2h['jugados'] > 0:
     with col_h2h3:
         st.metric(label=f"🤝 Empates", value=f"{h2h['empates']}")
     
-    # Promedio de goles como tarjeta métrica
     st.metric(label="🎯 Promedio de goles en sus enfrentamientos", value=f"{h2h['promedio_goles']:.2f}")
     
-    # MOSTRAR SOLO LOS ÚLTIMOS 10 ENFRENTAMIENTOS
     st.markdown("#### 📋 Últimos 10 enfrentamientos")
     ultimos_10_h2h = h2h['enfrentamientos'][:10]
     
